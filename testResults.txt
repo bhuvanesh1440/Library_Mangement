@@ -1,0 +1,34 @@
+userCreated:
+firstUser:
+{
+  "name" : "bhuvanesh",
+  "email" : "bhuvi@gmail.com",
+  "password" :"Bhuvi@1440",
+  "phone" : "8790066998"
+  
+}
+
+response:
+{
+  "success": true,
+  "message": "User created Successful",
+  "user": {
+    "name": "bhuvanesh",
+    "email": "bhuvi@gmail.com",
+    "password": "$2b$12$V9PvfMkuFfJclE2rO73ND.ElgpD8dyfph8Ywt7eBxS9moh6PqjSFK",
+    "phone": "8790066998",
+    "isVerified": false,
+    "issuedBooks": [],
+    "_id": "64f891d831debb4558671383",
+    "createdAt": "2023-09-06T14:51:04.033Z",
+    "updatedAt": "2023-09-06T14:51:04.033Z",
+    "__v": 0
+  }
+}
+
+
+once again :
+{
+  "success": false,
+  "message": "Email and phone Number alredy exist"
+}
